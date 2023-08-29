@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -eou >/dev/null
+
+API_URL=http://localhost:3999/v2/info
+DEV_READY_HEIGHT=137
